@@ -1,0 +1,4 @@
+http://docs.cksource.com/CKEditor_3.x/Developers_Guide/File_Browser_(Uploader)
+http://www.krishnasunuwar.com.np/2011/11/ckeditor-and-image-upload/
+http://www.programmingfacts.com/browse-server-image-upload-problem-in-ckeditor-solved/
+http://docs.cksource.com/CKFinder_2.x/Developers_Guide/PHP/CKEditor_Integration

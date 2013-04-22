@@ -1,0 +1,1 @@
+[28-Oct-2012 10:13:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/techmip7/public_html/prisha/Admin/admin/database.php on line 9
